@@ -4,32 +4,32 @@
 
 # Personal Statement
 
-I am a pragmatic and personable coastal geographer, currently looking to expand
-my experience in the private sector. I strive to complement my technical hard
-skills with an excellence in communicative and collaborative qualities. My
-training has provided me with a grounding in modern GIS and remote sensing
-technologies, and my experience in research has given me the analytical
-abilities inherent in applied geomorphological study. I am now fully committed
-to exploring the private sector's opportunities in geospatial applications to
-regional climate change adaptation.
+I am a pragmatic and personable coastal geographer. I strive to complement my
+technical skills with an excellence in communicative and collaborative
+qualities. My training has provided me with a grounding in modern GIS and
+remote sensing technologies, and my experience in research has given me the
+analytical abilities inherent in applied geomorphological study. I am now fully
+committed to the research of geospatial applications to regional climate change
+adaptation.
 
 # Goals
 
-**Short** - Gain experience in the geospatial industry within Atlantic Canada.
+**Short** - Provide geospatial services within Atlantic Canada, particularly in
+areas of coastal hazards and planning.
 
-**Long** - Work to assist the adaptation of coastal populations to projected
-climatic change using the powerful decision support provided by geospatial
-technology.
+**Long** - Work to assist the adaptation of coastal populations in Nova Scotia
+to projected climatic change using the powerful decision support provided by
+geospatial technology.
 
 # Contact Info
 
-[scott.v.hatcher (at) gmail (dot) com](mailto://scott.v.hatcher@gmail.com)
+[bw.geospatial (at) gmail (dot) com](mailto://bw.geospatial@gmail.com)
 
 [CV](https://www.dropbox.com/s/pr37f6wlz3l2igq/SVHatcher_CV.pdf?dl=0)
 
 [Resume](https://www.dropbox.com/s/01i20w8pb0f1iaq/SVHatcher_CV_geospatial_tech.pdf?dl=0)
 
-[LinkedIn](https://nz.linkedin.com/in/svhatcher)
+[LinkedIn](https://ca.linkedin.com/in/svhatcher)
 
 # Projects
 
