@@ -25,9 +25,9 @@ geospatial technology.
 
 [bw.geospatial (at) gmail (dot) com](mailto://bw.geospatial@gmail.com)
 
-[CV](https://www.dropbox.com/s/pr37f6wlz3l2igq/SVHatcher_CV.pdf?dl=0)
+[CV](./files/SVHatcher_CV.pdf)
 
-[Resume](https://www.dropbox.com/s/01i20w8pb0f1iaq/SVHatcher_CV_geospatial_tech.pdf?dl=0)
+[Resume](./files/SVHatcher_resume.pdf)
 
 [LinkedIn](https://ca.linkedin.com/in/svhatcher)
 
