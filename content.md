@@ -31,6 +31,8 @@ geospatial technology.
 
 [LinkedIn](https://ca.linkedin.com/in/svhatcher)
 
+[ResearchGate](https://www.researchgate.net/profile/Scott_Hatcher)
+
 # Projects
 
 ## 3D scanning archaeological rock carvings
