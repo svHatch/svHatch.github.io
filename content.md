@@ -1,6 +1,6 @@
 # Scott V. Hatcher's Professional Portfolio
 
-![](./img/profile_pic.jpg)
+![](./web/img/profile_pic.jpg)
 
 # Personal Statement
 
@@ -25,9 +25,9 @@ geospatial technology.
 
 [bw.geospatial (at) gmail (dot) com](mailto://bw.geospatial@gmail.com)
 
-[CV](./files/SVHatcher_CV.pdf)
+[CV](./web/files/SVHatcher_CV.pdf)
 
-[Resume](./files/SVHatcher_resume.pdf)
+[Resume](./web/files/SVHatcher_resume.pdf)
 
 [LinkedIn](https://ca.linkedin.com/in/svhatcher)
 
@@ -37,11 +37,11 @@ geospatial technology.
 
 ## 3D scanning archaeological rock carvings
 
-![Stitched panorama showing the archaeological rock carving face](./img/chatham1.png)
+![Stitched panorama showing the archaeological rock carving face](./web/img/chatham1.png)
 
-![The original data, as well as the manual interpretation of the carvings](./img/chatham4.png)
+![The original data, as well as the manual interpretation of the carvings](./web/img/chatham4.png)
 
-![Attempts at automatically segmenting the image to follow the carvings](./img/chatham3.png)
+![Attempts at automatically segmenting the image to follow the carvings](./web/img/chatham3.png)
 
 For the purpose of preservation, as well as to facilitate analysis, some rock
 carvings made on the face of a cave were scanned at very high resolution using
@@ -57,11 +57,11 @@ the surveying data in order to quickly map their layout on the carving face.
 
 ## Storm effects on an urban coastal dune
 
-![Instrument positions for measuring sand movement over the dune](./img/dunedin1.png)
+![Instrument positions for measuring sand movement over the dune](./web/img/dunedin1.png)
 
-![Measured sediment flux in the sand traps](./img/dunedin2.png)
+![Measured sediment flux in the sand traps](./web/img/dunedin2.png)
 
-![Measured wind velocities and directions over the dune](./img/dunedin3.png)
+![Measured wind velocities and directions over the dune](./web/img/dunedin3.png)
 
 I was involved in a project that aimed to quantify the effect of highly oblique
 winds in transporting sand over a coastal dune. This coastal dune, located on
@@ -75,7 +75,7 @@ the regional winds due to the local topography of the dune.
 
 ## CanCoast - providing a national estimate of coastal vulnerability
 
-![Results of the CanCoast coastal sensitivity index analysis](./img/CanCoast_CSI2.png)
+![Results of the CanCoast coastal sensitivity index analysis](./web/img/CanCoast_CSI2.png)
 
 The goal of the CanCoast project is to improve upon the existing Coastal
 Vulnerability Index (CVI) from Shaw et.al. (1998) using updated information on
@@ -85,7 +85,7 @@ calculating a vulnerability index was developed.
 
 ## Assisting coastal planning in the Inuit communities of Northern Labrador (Memorial University, 2012-2013)
 
-![Orthoview of derived DEM and bathymetry for Hopedale, Labrador](./img/sci1.png)
+![Orthoview of derived DEM and bathymetry for Hopedale, Labrador](./web/img/sci1.png)
 
 The community plans for the Inuit towns within Nunatsiavut, in northern
 Labrador, rely on planners from Ottawa. This presents challenges when it comes
@@ -100,11 +100,11 @@ allowed this problem to be tackled.
 
 ## Coastal Hazards in a rapidly expanding Arctic urban centre (M.Sc. 2011-2013)  
 
-![Illustration showing the layout of the Koojesse Inlet tidal flats](./img/iqaluit1.png)
+![Illustration showing the layout of the Koojesse Inlet tidal flats](./web/img/iqaluit1.png)
 
-![Illustration showing the proposed evolution of the tidal flats](./img/iqaluit2.png)
+![Illustration showing the proposed evolution of the tidal flats](./web/img/iqaluit2.png)
 
-![Map showing the incursion of water onto the shoreline of Iqaluit based on projected SLR scenarios](./img/arctic2.png)
+![Map showing the incursion of water onto the shoreline of Iqaluit based on projected SLR scenarios](./web/img/arctic2.png)
 
 The city of Iqaluit needed an assessment of coastal hazards within Koojesse
 Inlet, the main inlet servicing the city, in order to incorporate proper
@@ -117,7 +117,7 @@ adaptation plan.
 
 ## Underwater photogrammetry at the Centre of Geographic Sciences
 
-![Underwater photogrammetry](./img/und_photogrammetry1.jpg)
+![Underwater photogrammetry](./web/img/und_photogrammetry1.jpg)
 
 As part of my final project I attempted a 3D model of a scuba tank underwater
 using oblqiue photogrammetry. This is very common place now (structure from
@@ -146,7 +146,7 @@ the ancient Graeco-Roman world.
 
 ## Personal photography
 
-![Lightbox Image](./img/lightbox.png)
+![Lightbox Image](./web/img/lightbox.png)
 
 I am an amateur photographer, enjoying taking photos of nature and of funny
 situations. I keep my portfolio on [flickr](https://www.flickr.com/gp/143183184@N04/yHT3X4)
