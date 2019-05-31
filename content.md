@@ -14,16 +14,16 @@ adaptation.
 
 # Goals
 
-**Short** - Provide geospatial services within Atlantic Canada, particularly in
-areas of coastal hazards and planning.
+**Short** - Provide geospatial services in areas of coastal hazards and
+adaptation planning.
 
-**Long** - Work to assist the adaptation of coastal populations in Nova Scotia
-to projected climatic change using the powerful decision support provided by
-geospatial technology.
+**Long** - Work to assist the adaptation of coastal populations to projected
+climatic change using the powerful decision support provided by geospatial
+technology.
 
 # Contact Info
 
-[bw.geospatial (at) gmail (dot) com](mailto://bw.geospatial@gmail.com)
+[scott.v.hatcher (at) gmail (dot) com](mailto://scott.v.hatcher@gmail.com)
 
 [CV](./web/files/SVHatcher_CV.pdf)
 
@@ -32,6 +32,8 @@ geospatial technology.
 [LinkedIn](https://ca.linkedin.com/in/svhatcher)
 
 [ResearchGate](https://www.researchgate.net/profile/Scott_Hatcher)
+
+[Twitter](https://www.twitter.com/svHatch)
 
 # Projects
 
